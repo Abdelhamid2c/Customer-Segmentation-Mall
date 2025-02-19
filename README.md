@@ -10,16 +10,21 @@ Ce repository contient :
 - 🛠️ Le code nécessaire pour reproduire l'expérience.  
 
 ## 🔧 Installation & Exécution  
-1. Clonez le repo :  
+1. Créer un dossier :
+   ```bash
+   mkdir day-project-1 
+   cd day-project-1
+   ```
+2. Clonez le repo :  
    ```bash
    git clone <lien-du-repo>
    cd day-project-1
    ```
-2. Installez les dépendances :  
+3. Installez les dépendances :  
    ```bash
    pip install -r requirements.txt
    ```
-3. Lancez le notebook :  
+4. Lancez le notebook :  
    ```bash
    jupyter notebook
    ```
