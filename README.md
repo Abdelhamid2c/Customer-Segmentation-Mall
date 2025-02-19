@@ -43,4 +43,6 @@ Ce repository contient :
 Ce projet est un exercice personnel, mais toute suggestion est la bienvenue ! N'hésitez pas à forker le repo et proposer des améliorations 🚀.  
 
 ## 📢 Contact  
-Pour toute question ou suggestion, vous pouvez me contacter sur [LinkedIn / Email] 💬.  
+Pour toute question ou suggestion, vous pouvez me contacter :
+- LinkedIn : [www.linkedin.com/in/abdelhamidchebel](https://www.linkedin.com/in/abdelhamidchebel)  
+- Email : [abdelhamid.chebel04@gmail.com](mailto:abdelhamid.chebel04@gmail.com) 💬.
