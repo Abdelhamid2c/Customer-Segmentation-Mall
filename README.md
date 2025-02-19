@@ -1,4 +1,4 @@
-# 📊 Day Project #1
+# 📊 Day Project #4
 
 ## 🚀 À propos du projet  
 Ce projet fait partie de ma série **Day Project**, où je sélectionne un dataset et travaille sur un thème en **24 heures**. L'objectif est d'explorer rapidement des données, de tester des modèles et d'obtenir des insights exploitables en un temps limité.  
@@ -32,7 +32,7 @@ Ce repository contient :
 ## 📜 Détails techniques  
 - Langage : Python 🐍  
 - Librairies utilisées : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, etc.  
-- Objectif : (Décrire brièvement l'objectif du projet : ex. prédiction, classification, clustering...)  
+- Objectif : prédiction, classification, clustering...
 
 ## 📌 Résultats  
 - 🔍 Principales observations sur les données.  
